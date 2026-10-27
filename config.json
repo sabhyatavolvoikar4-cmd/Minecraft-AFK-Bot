@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "ZENOZ.aternos.me",
+  "serverPort": 37766,
+  "botUsername": "batcha",
   "botChunk": 1
 }
